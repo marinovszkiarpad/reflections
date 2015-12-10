@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	git inig
+	You get a repo with no files tracked nor commits saved. 
+	
+	How is the staging area different from the working directory and the repository? What value do you think it offers?
+	You can add files to the staging area from the working directory. Added files are candidates for a save in a commit.
